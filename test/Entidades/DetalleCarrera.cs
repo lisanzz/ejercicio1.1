@@ -8,5 +8,14 @@ namespace test.Entidades
 {
     internal class DetalleCarrera
     {
+        public  int AnioCursado 
+
+
+
+
+
+
+
+
     }
 }
